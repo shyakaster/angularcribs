@@ -1,0 +1,84 @@
+     [  
+          {
+              "type": "Condo",
+              "price": 45000,
+              "address": "Kampala",
+              "description": "Excellent place, really nice view",
+              "details": {
+               
+                  "bedrooms": 4,
+                  "bathrooms": 2.5,
+                  "area": 34556
+              },
+               "image": "crib-1"
+          },
+          {
+              "type": "Flat",
+              "price": 38000,
+              "address": "Kasese",
+              "description": "Nice access roads and are paved",
+               "details": {
+              
+                "bedrooms": 4,
+                "bathrooms": 2.5,
+                "area": 34556
+          },
+              "image": "crib-2"
+                  
+          },
+          {
+              "type": "House",
+              "price": 895000,
+              "address": "Kabale",
+              "description": "Green scenary and really polite people",
+              "details": {
+               
+              "bedrooms": 4,
+              "bathrooms": 2.5,
+              "area": 34556
+          },
+               "image": "crib-3"
+          },
+          {
+              "type": "Beach House",
+              "price": 897300,
+              "address": "Entebbe",
+              "description": "No lake flies and really cool air",
+               "details": {
+               
+              "bedrooms": 4,
+              "bathrooms": 2.5,
+              "area": 34556
+          },
+               "image": "crib-4"
+          },
+          {
+              "type": "House",
+              "price": 895000,
+              "address": "Kabale",
+              "description": "Green scenary and really polite people",
+              "details": {
+               
+              "bedrooms": 4,
+              "bathrooms": 2.5,
+              "area": 34556
+          },
+               "image": "crib-5"
+          },
+          {
+              "type": "Beach House",
+              "price": 897300,
+              "address": "Entebbe",
+              "description": "No lake flies and really cool air",
+               "details": {
+               
+              "bedrooms": 4,
+              "bathrooms": 2.5,
+              "area": 34556
+          },
+               "image": "crib-4"
+         }
+
+
+
+      ]

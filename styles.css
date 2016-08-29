@@ -1,0 +1,20 @@
+/*
+h3{
+    font-weight: bold;
+}
+*/
+
+/*
+img{
+    margin-bottom: 60px;
+}*/
+.col-sm-6:nth-child(4n+1){
+   clear:left;
+	
+}
+.glyphicon{
+    padding-right:10px;
+}
+.btn-success{
+    margin-left:10px;
+}
